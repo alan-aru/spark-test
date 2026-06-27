@@ -1,4 +1,5 @@
 spark_input/
+spark_output/
 *.csv
 __pycache__/
 .ipynb_checkpoints/
