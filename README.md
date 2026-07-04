@@ -1,2 +1,2 @@
 # spark-test
-test repository for running PySpark
+Repository for running PySpark in GitHub codespace
